@@ -1,4 +1,4 @@
-# FAQ Accordion Card- frontendmentor.io
+# FAQ Accordion Card - frontendmentor.io
  
 <h2>Users Should be Able to:</h2>
 
